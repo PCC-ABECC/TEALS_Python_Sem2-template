@@ -20,11 +20,6 @@ print("Hello there, " + a)
 3. Briefly describe what the `#` does?
 4. Briefly describe what `input` does?
 
-## Snap to Python
-
-Convert the following to Python code:
-
-  ![Snap Input](snap_input.png)
 
 ## Swapping
 
